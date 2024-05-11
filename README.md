@@ -1,11 +1,20 @@
-<h2 align="left">👋 Olá, sou o Sergio!<br><br>Sou um entusiasta desenvolvedor front-end em busca da minha primeira experiência profissional na área. Minha paixão pelo desenvolvimeto de software surgiu da minha admiração por como a tecnologia pode impactar positivamente a vida das pessoas, e estou animado para aplicar minhas habilidades em um ambiente de trabalho colaborativo.</h2>
+<h1 align="center">Olá Pessoas!!!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=91sergioaugusto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=91sergioaugusto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="100" src="https://media.tenor.com/v6eujWktbsUAAAAj/luffy.gif"  />
 </div>
+
+###
+
+<h2 align="center">Sou apaixonado por tecnologia desde muito jovem e sempre me fascinei pelo poder da web para conectar pessoas e oferecer experiências incríveis. Minha jornada começou com a curiosidade de como os sites eram construídos e rapidamente mergulhei no mundo do desenvolvimento web.</h2>
+
+###
+
+<br clear="both">
+
+<h2 align="left">Sobre mim:<br><br>🙋 Nome: Sergio Augusto<br>⚡  Idade: 33 anos<br>🔭 Sistemas de Informação 7° Periodo<br>👩‍💻 Desenvolvedor Front-end<br>🗺️ Manaus, AM - Brasil</h2>
 
 ###
 
@@ -31,7 +40,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/91sergioaugusto/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -45,11 +54,12 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/v6eujWktbsUAAAAj/luffy.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=91sergioaugusto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=91sergioaugusto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/91sergioaugusto/91sergioaugusto/output/snake.svg" alt="Snake animation" />
 
@@ -60,4 +70,3 @@
 </div>
 
 ###
-
