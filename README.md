@@ -49,6 +49,15 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/91sergioaugusto/91sergioaugusto/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/91sergioaugusto/count.svg?"  />
+</div>
+
+###
+
